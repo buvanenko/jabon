@@ -169,6 +169,13 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 *.txt
-test2.txt
+weather.py
 debug.gif
->>>>>>> 9e864a1ed5a0e7d7affcbc0b12203361ecb5cee4
+*.gif
+*.sh
+*.gif
+*.txt
+weather.py
+debug.gif
+debug.gif
+debug.gif
